@@ -1,0 +1,21 @@
+\frametitle{Inverted Index}
+ElasticSearch uses Inverted Index for fast full text-searchs.Let us consider two documents containing respective unique fields:
+\begin{enumerate}
+\item The quick brown fox jumped over the lazy dog.
+\item Quick brown foxes leap over lazy dogs in summer.
+\end{enumerate}
+\begin{columns}[c]
+\column{.45\textwidth} % Left column and width
+\begin{exampleblock}{\small{Inverted Index}}
+\begin{center}
+\includegraphics[scale=0.5]{t1.png}
+\end{center}
+\end{exampleblock}
+
+\column{.45\textwidth} % Right column and width
+\begin{exampleblock}{\small{Weight Calculation for the summer}}
+\begin{center}
+\includegraphics[scale=0.5]{t2.png}
+\end{center}
+\end{exampleblock}
+\end{columns}

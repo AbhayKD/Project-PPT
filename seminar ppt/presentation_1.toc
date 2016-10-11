@@ -1,0 +1,17 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Social Issue}{3}{0}{1}
+\beamer@sectionintoc {2}{Motivation}{11}{0}{2}
+\beamer@sectionintoc {3}{Problem Statement}{20}{0}{3}
+\beamer@sectionintoc {4}{Literature Survey}{21}{0}{4}
+\beamer@sectionintoc {5}{Introduction}{22}{0}{5}
+\beamer@subsectionintoc {5}{1}{What is Jasper?}{26}{0}{5}
+\beamer@subsectionintoc {5}{2}{Why use Jasper?}{27}{0}{5}
+\beamer@sectionintoc {6}{Flow Diagram}{28}{0}{6}
+\beamer@sectionintoc {7}{Algorithms}{32}{0}{7}
+\beamer@subsectionintoc {7}{1}{Relevance Scoring}{33}{0}{7}
+\beamer@subsectionintoc {7}{2}{Inverted Index}{34}{0}{7}
+\beamer@subsectionintoc {7}{3}{Zen Discovery}{35}{0}{7}
+\beamer@sectionintoc {8}{Advantages}{36}{0}{8}
+\beamer@sectionintoc {9}{Conclusion}{37}{0}{9}
+\beamer@sectionintoc {10}{Future Scope}{38}{0}{10}
+\beamer@sectionintoc {11}{References}{39}{0}{11}
