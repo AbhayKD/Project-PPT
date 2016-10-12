@@ -49,44 +49,44 @@
 \headcommand {\beamer@framepages {30}{30}}
 \headcommand {\slideentry {6}{2}{3}{31/31}{Detailed Flow Diagram}{0}}
 \headcommand {\beamer@framepages {31}{31}}
-\headcommand {\sectionentry {7}{Algorithms}{32}{Algorithms}{0}}
+\headcommand {\sectionentry {7}{Key Components}{32}{Key Components}{0}}
 \headcommand {\beamer@sectionpages {28}{31}}
 \headcommand {\beamer@subsectionpages {29}{31}}
 \headcommand {\slideentry {7}{0}{4}{32/32}{}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\beamer@subsectionentry {0}{7}{1}{33}{Relevance Scoring}}\headcommand {\beamer@subsectionpages {32}{32}}
-\headcommand {\slideentry {7}{1}{1}{33/33}{Relevance Scoring}{0}}
-\headcommand {\beamer@framepages {33}{33}}
-\headcommand {\beamer@subsectionentry {0}{7}{2}{34}{Inverted Index}}\headcommand {\beamer@subsectionpages {33}{33}}
-\headcommand {\slideentry {7}{2}{1}{34/34}{Inverted Index}{0}}
-\headcommand {\beamer@framepages {34}{34}}
-\headcommand {\beamer@subsectionentry {0}{7}{3}{35}{Zen Discovery}}\headcommand {\beamer@subsectionpages {34}{34}}
-\headcommand {\slideentry {7}{3}{1}{35/35}{Zen Discovery}{0}}
-\headcommand {\beamer@framepages {35}{35}}
-\headcommand {\sectionentry {8}{Advantages}{36}{Advantages}{0}}
-\headcommand {\beamer@sectionpages {32}{35}}
-\headcommand {\beamer@subsectionpages {35}{35}}
-\headcommand {\slideentry {8}{0}{2}{36/36}{}{0}}
-\headcommand {\beamer@framepages {36}{36}}
-\headcommand {\sectionentry {9}{Conclusion}{37}{Conclusion}{0}}
-\headcommand {\beamer@sectionpages {36}{36}}
-\headcommand {\beamer@subsectionpages {36}{36}}
-\headcommand {\slideentry {9}{0}{3}{37/37}{}{0}}
-\headcommand {\beamer@framepages {37}{37}}
-\headcommand {\sectionentry {10}{Future Scope}{38}{Future Scope}{0}}
-\headcommand {\beamer@sectionpages {37}{37}}
-\headcommand {\beamer@subsectionpages {37}{37}}
-\headcommand {\slideentry {10}{0}{4}{38/38}{}{0}}
-\headcommand {\beamer@framepages {38}{38}}
-\headcommand {\sectionentry {11}{References}{39}{References}{0}}
-\headcommand {\beamer@sectionpages {38}{38}}
-\headcommand {\beamer@subsectionpages {38}{38}}
-\headcommand {\slideentry {11}{0}{5}{39/39}{}{0}}
-\headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {11}{0}{6}{40/40}{}{0}}
-\headcommand {\beamer@framepages {40}{40}}
-\headcommand {\beamer@partpages {1}{40}}
-\headcommand {\beamer@subsectionpages {39}{40}}
-\headcommand {\beamer@sectionpages {39}{40}}
-\headcommand {\beamer@documentpages {40}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{33}{STT-TTS}}\headcommand {\beamer@subsectionpages {32}{32}}
+\headcommand {\slideentry {7}{1}{1}{33/34}{STT-TTS}{0}}
+\headcommand {\beamer@framepages {33}{34}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{35}{Pi-Arduino}}\headcommand {\beamer@subsectionpages {33}{34}}
+\headcommand {\slideentry {7}{2}{1}{35/36}{Pi-Arduino}{0}}
+\headcommand {\beamer@framepages {35}{36}}
+\headcommand {\beamer@subsectionentry {0}{7}{3}{37}{Firebase-Translate}}\headcommand {\beamer@subsectionpages {35}{36}}
+\headcommand {\slideentry {7}{3}{1}{37/38}{Firebase-Translate}{0}}
+\headcommand {\beamer@framepages {37}{38}}
+\headcommand {\sectionentry {8}{Advantages}{39}{Advantages}{0}}
+\headcommand {\beamer@sectionpages {32}{38}}
+\headcommand {\beamer@subsectionpages {37}{38}}
+\headcommand {\slideentry {8}{0}{2}{39/41}{}{0}}
+\headcommand {\beamer@framepages {39}{41}}
+\headcommand {\sectionentry {9}{Conclusion}{42}{Conclusion}{0}}
+\headcommand {\beamer@sectionpages {39}{41}}
+\headcommand {\beamer@subsectionpages {39}{41}}
+\headcommand {\slideentry {9}{0}{3}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\sectionentry {10}{Future Scope}{43}{Future Scope}{0}}
+\headcommand {\beamer@sectionpages {42}{42}}
+\headcommand {\beamer@subsectionpages {42}{42}}
+\headcommand {\slideentry {10}{0}{4}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\sectionentry {11}{References}{44}{References}{0}}
+\headcommand {\beamer@sectionpages {43}{43}}
+\headcommand {\beamer@subsectionpages {43}{43}}
+\headcommand {\slideentry {11}{0}{5}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\slideentry {11}{0}{6}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\beamer@partpages {1}{45}}
+\headcommand {\beamer@subsectionpages {44}{45}}
+\headcommand {\beamer@sectionpages {44}{45}}
+\headcommand {\beamer@documentpages {45}}
 \headcommand {\def \inserttotalframenumber {23}}

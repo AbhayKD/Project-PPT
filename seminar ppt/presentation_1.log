@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.1)  11 OCT 2016 15:42
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.1)  12 OCT 2016 19:54
 entering extended mode
 **presentation_1.tex
 ("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.tex"
@@ -1403,26 +1403,27 @@ File: images/button.jpg Graphic file (type jpg)
 <use images/button.jpg>
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
- <images/search.jpg, id=200, 722.7pt x 655.44875pt>
+ <images/search.jpg, id=200, 542.025pt x 491.58656pt>
 File: images/search.jpg Graphic file (type jpg)
 
 <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
  <images/language.jpg, id=201, 818.0964pt x 455.5419pt>
 File: images/language.jpg Graphic file (type jpg)
 
 <use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
- <images/social.jpg, id=202, 451.6875pt x 413.545pt>
-File: images/social.jpg Graphic file (type jpg)
 
-<use images/social.jpg>
+<images/social.jpg, id=202, 338.76563pt x 310.15875pt>
+File: images/social.jpg Graphic file (type jpg)
+ <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
- <use logo.png>
+
+<use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [3
@@ -1435,7 +1436,8 @@ es/button.jpg> <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/search.jpg
 > <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/language.jpg> <C:/Users
 /Abhz/Desktop/Project PPT/seminar ppt/images/social.jpg>]
 File: images/movie.jpg Graphic file (type jpg)
- <use images/movie.jpg>
+
+<use images/movie.jpg>
 Package pdftex.def Info: images/movie.jpg used on input line 154.
 (pdftex.def)             Requested size: 84.91357pt x 65.76285pt.
 File: images/frus.jpg Graphic file (type jpg)
@@ -1443,12 +1445,12 @@ File: images/frus.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/frus.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.30482pt x 58.26846pt.
 File: images/multiple2.jpg Graphic file (type jpg)
-
-<use images/multiple2.jpg>
+ <use images/multiple2.jpg>
 Package pdftex.def Info: images/multiple2.jpg used on input line 154.
 (pdftex.def)             Requested size: 80.30164pt x 53.48088pt.
 File: images/lights.jpg Graphic file (type jpg)
- <use images/lights.jpg>
+
+<use images/lights.jpg>
 Package pdftex.def Info: images/lights.jpg used on input line 154.
 (pdftex.def)             Requested size: 65.04291pt x 65.04291pt.
 File: images/button.jpg Graphic file (type jpg)
@@ -1456,28 +1458,28 @@ File: images/button.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
 File: images/search.jpg Graphic file (type jpg)
-
-<use images/search.jpg>
+ <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
 File: images/language.jpg Graphic file (type jpg)
- <use images/language.jpg>
+
+<use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
 File: images/social.jpg Graphic file (type jpg)
  <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
-
-<use logo.png>
+ <use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [4
 
 ]
 File: images/movie.jpg Graphic file (type jpg)
- <use images/movie.jpg>
+
+<use images/movie.jpg>
 Package pdftex.def Info: images/movie.jpg used on input line 154.
 (pdftex.def)             Requested size: 84.91357pt x 65.76285pt.
 File: images/frus.jpg Graphic file (type jpg)
@@ -1485,12 +1487,12 @@ File: images/frus.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/frus.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.30482pt x 58.26846pt.
 File: images/multiple2.jpg Graphic file (type jpg)
-
-<use images/multiple2.jpg>
+ <use images/multiple2.jpg>
 Package pdftex.def Info: images/multiple2.jpg used on input line 154.
 (pdftex.def)             Requested size: 80.30164pt x 53.48088pt.
 File: images/lights.jpg Graphic file (type jpg)
- <use images/lights.jpg>
+
+<use images/lights.jpg>
 Package pdftex.def Info: images/lights.jpg used on input line 154.
 (pdftex.def)             Requested size: 65.04291pt x 65.04291pt.
 File: images/button.jpg Graphic file (type jpg)
@@ -1498,28 +1500,28 @@ File: images/button.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
 File: images/search.jpg Graphic file (type jpg)
-
-<use images/search.jpg>
+ <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
 File: images/language.jpg Graphic file (type jpg)
- <use images/language.jpg>
+
+<use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
 File: images/social.jpg Graphic file (type jpg)
  <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
-
-<use logo.png>
+ <use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [5
 
 ]
 File: images/movie.jpg Graphic file (type jpg)
- <use images/movie.jpg>
+
+<use images/movie.jpg>
 Package pdftex.def Info: images/movie.jpg used on input line 154.
 (pdftex.def)             Requested size: 84.91357pt x 65.76285pt.
 File: images/frus.jpg Graphic file (type jpg)
@@ -1527,12 +1529,12 @@ File: images/frus.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/frus.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.30482pt x 58.26846pt.
 File: images/multiple2.jpg Graphic file (type jpg)
-
-<use images/multiple2.jpg>
+ <use images/multiple2.jpg>
 Package pdftex.def Info: images/multiple2.jpg used on input line 154.
 (pdftex.def)             Requested size: 80.30164pt x 53.48088pt.
 File: images/lights.jpg Graphic file (type jpg)
- <use images/lights.jpg>
+
+<use images/lights.jpg>
 Package pdftex.def Info: images/lights.jpg used on input line 154.
 (pdftex.def)             Requested size: 65.04291pt x 65.04291pt.
 File: images/button.jpg Graphic file (type jpg)
@@ -1540,28 +1542,28 @@ File: images/button.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
 File: images/search.jpg Graphic file (type jpg)
-
-<use images/search.jpg>
+ <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
 File: images/language.jpg Graphic file (type jpg)
- <use images/language.jpg>
+
+<use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
 File: images/social.jpg Graphic file (type jpg)
  <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
-
-<use logo.png>
+ <use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [6
 
 ]
 File: images/movie.jpg Graphic file (type jpg)
- <use images/movie.jpg>
+
+<use images/movie.jpg>
 Package pdftex.def Info: images/movie.jpg used on input line 154.
 (pdftex.def)             Requested size: 84.91357pt x 65.76285pt.
 File: images/frus.jpg Graphic file (type jpg)
@@ -1569,12 +1571,12 @@ File: images/frus.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/frus.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.30482pt x 58.26846pt.
 File: images/multiple2.jpg Graphic file (type jpg)
-
-<use images/multiple2.jpg>
+ <use images/multiple2.jpg>
 Package pdftex.def Info: images/multiple2.jpg used on input line 154.
 (pdftex.def)             Requested size: 80.30164pt x 53.48088pt.
 File: images/lights.jpg Graphic file (type jpg)
- <use images/lights.jpg>
+
+<use images/lights.jpg>
 Package pdftex.def Info: images/lights.jpg used on input line 154.
 (pdftex.def)             Requested size: 65.04291pt x 65.04291pt.
 File: images/button.jpg Graphic file (type jpg)
@@ -1582,28 +1584,28 @@ File: images/button.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
 File: images/search.jpg Graphic file (type jpg)
-
-<use images/search.jpg>
+ <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
 File: images/language.jpg Graphic file (type jpg)
- <use images/language.jpg>
+
+<use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
 File: images/social.jpg Graphic file (type jpg)
  <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
-
-<use logo.png>
+ <use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [7
 
 ]
 File: images/movie.jpg Graphic file (type jpg)
- <use images/movie.jpg>
+
+<use images/movie.jpg>
 Package pdftex.def Info: images/movie.jpg used on input line 154.
 (pdftex.def)             Requested size: 84.91357pt x 65.76285pt.
 File: images/frus.jpg Graphic file (type jpg)
@@ -1611,12 +1613,12 @@ File: images/frus.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/frus.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.30482pt x 58.26846pt.
 File: images/multiple2.jpg Graphic file (type jpg)
-
-<use images/multiple2.jpg>
+ <use images/multiple2.jpg>
 Package pdftex.def Info: images/multiple2.jpg used on input line 154.
 (pdftex.def)             Requested size: 80.30164pt x 53.48088pt.
 File: images/lights.jpg Graphic file (type jpg)
- <use images/lights.jpg>
+
+<use images/lights.jpg>
 Package pdftex.def Info: images/lights.jpg used on input line 154.
 (pdftex.def)             Requested size: 65.04291pt x 65.04291pt.
 File: images/button.jpg Graphic file (type jpg)
@@ -1624,28 +1626,28 @@ File: images/button.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
 File: images/search.jpg Graphic file (type jpg)
-
-<use images/search.jpg>
+ <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
 File: images/language.jpg Graphic file (type jpg)
- <use images/language.jpg>
+
+<use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
 File: images/social.jpg Graphic file (type jpg)
  <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
-
-<use logo.png>
+ <use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [8
 
 ]
 File: images/movie.jpg Graphic file (type jpg)
- <use images/movie.jpg>
+
+<use images/movie.jpg>
 Package pdftex.def Info: images/movie.jpg used on input line 154.
 (pdftex.def)             Requested size: 84.91357pt x 65.76285pt.
 File: images/frus.jpg Graphic file (type jpg)
@@ -1653,12 +1655,12 @@ File: images/frus.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/frus.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.30482pt x 58.26846pt.
 File: images/multiple2.jpg Graphic file (type jpg)
-
-<use images/multiple2.jpg>
+ <use images/multiple2.jpg>
 Package pdftex.def Info: images/multiple2.jpg used on input line 154.
 (pdftex.def)             Requested size: 80.30164pt x 53.48088pt.
 File: images/lights.jpg Graphic file (type jpg)
- <use images/lights.jpg>
+
+<use images/lights.jpg>
 Package pdftex.def Info: images/lights.jpg used on input line 154.
 (pdftex.def)             Requested size: 65.04291pt x 65.04291pt.
 File: images/button.jpg Graphic file (type jpg)
@@ -1666,28 +1668,28 @@ File: images/button.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
 File: images/search.jpg Graphic file (type jpg)
-
-<use images/search.jpg>
+ <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
 File: images/language.jpg Graphic file (type jpg)
- <use images/language.jpg>
+
+<use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
 File: images/social.jpg Graphic file (type jpg)
  <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
-
-<use logo.png>
+ <use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [9
 
 ]
 File: images/movie.jpg Graphic file (type jpg)
- <use images/movie.jpg>
+
+<use images/movie.jpg>
 Package pdftex.def Info: images/movie.jpg used on input line 154.
 (pdftex.def)             Requested size: 84.91357pt x 65.76285pt.
 File: images/frus.jpg Graphic file (type jpg)
@@ -1695,12 +1697,12 @@ File: images/frus.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/frus.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.30482pt x 58.26846pt.
 File: images/multiple2.jpg Graphic file (type jpg)
-
-<use images/multiple2.jpg>
+ <use images/multiple2.jpg>
 Package pdftex.def Info: images/multiple2.jpg used on input line 154.
 (pdftex.def)             Requested size: 80.30164pt x 53.48088pt.
 File: images/lights.jpg Graphic file (type jpg)
- <use images/lights.jpg>
+
+<use images/lights.jpg>
 Package pdftex.def Info: images/lights.jpg used on input line 154.
 (pdftex.def)             Requested size: 65.04291pt x 65.04291pt.
 File: images/button.jpg Graphic file (type jpg)
@@ -1708,158 +1710,154 @@ File: images/button.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/button.jpg used on input line 154.
 (pdftex.def)             Requested size: 90.03821pt x 70.5249pt.
 File: images/search.jpg Graphic file (type jpg)
-
-<use images/search.jpg>
+ <use images/search.jpg>
 Package pdftex.def Info: images/search.jpg used on input line 154.
-(pdftex.def)             Requested size: 72.27423pt x 65.5487pt.
+(pdftex.def)             Requested size: 54.20567pt x 49.16153pt.
 File: images/language.jpg Graphic file (type jpg)
- <use images/language.jpg>
+
+<use images/language.jpg>
 Package pdftex.def Info: images/language.jpg used on input line 154.
 (pdftex.def)             Requested size: 81.81442pt x 45.55685pt.
 File: images/social.jpg Graphic file (type jpg)
  <use images/social.jpg>
 Package pdftex.def Info: images/social.jpg used on input line 154.
-(pdftex.def)             Requested size: 67.7502pt x 62.02907pt.
+(pdftex.def)             Requested size: 50.81264pt x 46.5218pt.
 File: logo.png Graphic file (type png)
-
-<use logo.png>
+ <use logo.png>
 Package pdftex.def Info: logo.png used on input line 154.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [10
 
-] <images/idea.jpg, id=419, 222.5916pt x 313.17pt>
+]
+<images/idea.jpg, id=419, 222.5916pt x 313.17pt>
 File: images/idea.jpg Graphic file (type jpg)
-
-<use images/idea.jpg>
+ <use images/idea.jpg>
 Package pdftex.def Info: images/idea.jpg used on input line 165.
 (pdftex.def)             Requested size: 66.77798pt x 93.95172pt.
 File: logo.png Graphic file (type png)
- <use logo.png>
+
+<use logo.png>
 Package pdftex.def Info: logo.png used on input line 165.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [11
 
  <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/idea.jpg>]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [12
 
 ]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [13
 
 ]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [14
 
 ]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [15
 
 ]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [16
 
 ]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [17
 
 ]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [18
 
 ]
-Overfull \hbox (2.00299pt too wide) in paragraph at lines 181--181
+Overfull \hbox (2.00299pt too wide) in paragraph at lines 182--182
  []\OT1/cmss/m/n/10.95 Questions 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 181.
+Package pdftex.def Info: logo.png used on input line 182.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [19
 
 ]
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 194.
+Package pdftex.def Info: logo.png used on input line 195.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [20
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 216.
+LaTeX Font Info:    Try loading font information for U+msa on input line 217.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 216.
+LaTeX Font Info:    Try loading font information for U+msb on input line 217.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 216.
+line 217.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd
 "
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Overfull \hbox (2.49576pt too wide) in paragraph at lines 216--216
- [] 
- []
-
 File: logo.png Graphic file (type png)
-<use logo.png>
-Package pdftex.def Info: logo.png used on input line 216.
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 217.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [21
 
@@ -1867,22 +1865,22 @@ Package pdftex.def Info: logo.png used on input line 216.
 File: images/mycroft.jpg Graphic file (type jpg)
 
 <use images/mycroft.jpg>
-Package pdftex.def Info: images/mycroft.jpg used on input line 230.
+Package pdftex.def Info: images/mycroft.jpg used on input line 231.
 (pdftex.def)             Requested size: 183.38387pt x 82.20654pt.
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 230.
+Package pdftex.def Info: logo.png used on input line 231.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [22
 
  <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/mycroft.jpg>]
 File: images/mycroft.jpg Graphic file (type jpg)
  <use images/mycroft.jpg>
-Package pdftex.def Info: images/mycroft.jpg used on input line 230.
+Package pdftex.def Info: images/mycroft.jpg used on input line 231.
 (pdftex.def)             Requested size: 183.38387pt x 82.20654pt.
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 230.
+Package pdftex.def Info: logo.png used on input line 231.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
 
 [23
@@ -1890,23 +1888,23 @@ Package pdftex.def Info: logo.png used on input line 230.
 ]
 File: images/mycroft.jpg Graphic file (type jpg)
  <use images/mycroft.jpg>
-Package pdftex.def Info: images/mycroft.jpg used on input line 230.
+Package pdftex.def Info: images/mycroft.jpg used on input line 231.
 (pdftex.def)             Requested size: 183.38387pt x 82.20654pt.
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 230.
+Package pdftex.def Info: logo.png used on input line 231.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [24
 
 ]
 File: images/mycroft.jpg Graphic file (type jpg)
  <use images/mycroft.jpg>
-Package pdftex.def Info: images/mycroft.jpg used on input line 230.
+Package pdftex.def Info: images/mycroft.jpg used on input line 231.
 (pdftex.def)             Requested size: 183.38387pt x 82.20654pt.
 File: logo.png Graphic file (type png)
 
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 230.
+Package pdftex.def Info: logo.png used on input line 231.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [25
 
@@ -1915,7 +1913,7 @@ Package pdftex.def Info: logo.png used on input line 230.
 File: logo.png Graphic file (type png)
 
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 247.
+Package pdftex.def Info: logo.png used on input line 248.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [26
 
@@ -1924,7 +1922,7 @@ Package pdftex.def Info: logo.png used on input line 247.
 File: logo.png Graphic file (type png)
 
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 264.
+Package pdftex.def Info: logo.png used on input line 265.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [27
 
@@ -1932,20 +1930,20 @@ Package pdftex.def Info: logo.png used on input line 264.
 File: images/Arckin.png Graphic file (type png)
 
 <use images/Arckin.png>
-Package pdftex.def Info: images/Arckin.png used on input line 278.
+Package pdftex.def Info: images/Arckin.png used on input line 279.
 (pdftex.def)             Requested size: 349.37566pt x 193.7563pt.
 
-Overfull \hbox (7.08035pt too wide) in paragraph at lines 278--278
+Overfull \hbox (7.08035pt too wide) in paragraph at lines 279--279
  [] 
  []
 
 
-Overfull \vbox (1.56891pt too high) detected at line 278
+Overfull \vbox (1.56891pt too high) detected at line 279
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 278.
+Package pdftex.def Info: logo.png used on input line 279.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [28
 
@@ -1954,16 +1952,16 @@ ice.png, id=923, 959.83594pt x 479.54156pt>
 File: images/Device.png Graphic file (type png)
 
 <use images/Device.png>
-Package pdftex.def Info: images/Device.png used on input line 288.
+Package pdftex.def Info: images/Device.png used on input line 289.
 (pdftex.def)             Requested size: 345.54068pt x 172.63483pt.
 
-Overfull \hbox (71.7034pt too wide) in paragraph at lines 288--288
+Overfull \hbox (71.7034pt too wide) in paragraph at lines 289--289
  [][] 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 288.
+Package pdftex.def Info: logo.png used on input line 289.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [29
 
@@ -1972,41 +1970,54 @@ Package pdftex.def Info: logo.png used on input line 288.
 File: images/IOT.png Graphic file (type png)
 
 <use images/IOT.png>
-Package pdftex.def Info: images/IOT.png used on input line 294.
+Package pdftex.def Info: images/IOT.png used on input line 295.
 (pdftex.def)             Requested size: 359.66156pt x 198.40671pt.
 
-Overfull \hbox (17.36626pt too wide) in paragraph at lines 294--294
+Overfull \hbox (17.36626pt too wide) in paragraph at lines 295--295
  [][] 
  []
 
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png used on input line 294.
+Package pdftex.def Info: logo.png used on input line 295.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [30
 
- <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/IOT.png>] <q3.png, id=98
-3, 462.22687pt x 62.48344pt>
-File: q3.png Graphic file (type png)
- <use q3.png>
-Package pdftex.def Info: q3.png used on input line 300.
-(pdftex.def)             Requested size: 147.91562pt x 19.9951pt.
+ <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/IOT.png>] <images/androi
+d.png, id=983, 910.15031pt x 547.2947pt>
+File: images/android.png Graphic file (type png)
+
+<use images/android.png>
+Package pdftex.def Info: images/android.png used on input line 300.
+(pdftex.def)             Requested size: 364.05368pt x 218.91399pt.
+
+Overfull \hbox (21.75838pt too wide) in paragraph at lines 300--300
+[][]  
+ []
+
+
+Overfull \vbox (1.12659pt too high) detected at line 300
+ []
+
 File: logo.png Graphic file (type png)
- <use logo.png>
+<use logo.png>
 Package pdftex.def Info: logo.png used on input line 300.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
+ [31
 
-[31
-
- <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/q3.png>]
+ <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/android.png>]
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 314.
+Package pdftex.def Info: logo.png used on input line 318.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
+ [32
 
-[32
-
-] ("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.vrb")
+]
+("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.vrb"
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ô in font cmss10!
+)
 File: logo.png Graphic file (type png)
 
 <use logo.png>
@@ -2016,52 +2027,87 @@ Package pdftex.def Info: logo.png used on input line 342.
 
 ]
 ("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.vrb"
-<t1.png, id=1078, 118.19156pt x 225.09094pt>
-File: t1.png Graphic file (type png)
- <use t1.png>
-Package pdftex.def Info: t1.png used on input line 11.
-(pdftex.def)             Requested size: 59.09563pt x 112.54518pt.
-
-<t2.png, id=1079, 118.19156pt x 84.315pt>
-File: t2.png Graphic file (type png)
- <use t2.png>
-Package pdftex.def Info: t2.png used on input line 18.
-(pdftex.def)             Requested size: 59.09563pt x 42.15738pt.
+Missing character: There is no ‚ in font cmss10!
+Missing character: There is no Ä in font cmss10!
+Missing character: There is no ô in font cmss10!
 )
 File: logo.png Graphic file (type png)
- <use logo.png>
-Package pdftex.def Info: logo.png used on input line 367.
+
+<use logo.png>
+Package pdftex.def Info: logo.png used on input line 342.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [34
 
- <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/t1.png> <C:/Users/Abhz/Desktop/
-Project PPT/seminar ppt/t2.png>] <zen.jpg, id=1109, 803.0pt x 574.145pt>
-File: zen.jpg Graphic file (type jpg)
+]
+("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.vrb"
+<images/pi3.jpg, id=1101, 1927.2pt x 1284.8pt>
+File: images/pi3.jpg Graphic file (type jpg)
+ <use images/pi3.jpg>
+Package pdftex.def Info: images/pi3.jpg used on input line 8.
+(pdftex.def)             Requested size: 57.8135pt x 38.54233pt.
 
-<use zen.jpg>
-Package pdftex.def Info: zen.jpg used on input line 375.
-(pdftex.def)             Requested size: 273.01639pt x 195.20671pt.
+<images/arduino.jpg, id=1102, 602.25pt x 451.6875pt>
+File: images/arduino.jpg Graphic file (type jpg)
+ <use images/arduino.jpg>
+Package pdftex.def Info: images/arduino.jpg used on input line 22.
+(pdftex.def)             Requested size: 48.18097pt x 36.13573pt.
+)
 File: logo.png Graphic file (type png)
- <use logo.png>
-Package pdftex.def Info: logo.png used on input line 375.
+
+<use logo.png>
+Package pdftex.def Info: logo.png used on input line 377.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [35
 
- <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/zen.jpg>]
+ <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/pi3.jpg> <C:/Users/Abhz/
+Desktop/Project PPT/seminar ppt/images/arduino.jpg>]
+("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.vrb"
+File: images/pi3.jpg Graphic file (type jpg)
+
+<use images/pi3.jpg>
+Package pdftex.def Info: images/pi3.jpg used on input line 8.
+(pdftex.def)             Requested size: 57.8135pt x 38.54233pt.
+File: images/arduino.jpg Graphic file (type jpg)
+ <use images/arduino.jpg>
+Package pdftex.def Info: images/arduino.jpg used on input line 22.
+(pdftex.def)             Requested size: 48.18097pt x 36.13573pt.
+)
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 390.
+Package pdftex.def Info: logo.png used on input line 377.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [36
 
 ]
+<images/firebase.png, id=1159, 200.75pt x 200.75pt>
+File: images/firebase.png Graphic file (type png)
+ <use images/firebase.png>
+Package pdftex.def Info: images/firebase.png used on input line 411.
+(pdftex.def)             Requested size: 20.07617pt x 20.07617pt.
+
+<images/google.png, id=1160, 301.125pt x 301.125pt>
+File: images/google.png Graphic file (type png)
+ <use images/google.png>
+Package pdftex.def Info: images/google.png used on input line 411.
+(pdftex.def)             Requested size: 24.09048pt x 24.09048pt.
 File: logo.png Graphic file (type png)
- <use logo.png>
-Package pdftex.def Info: logo.png used on input line 398.
+
+<use logo.png>
+Package pdftex.def Info: logo.png used on input line 411.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
  [37
 
-]
+ <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/firebase.png> <C:/Users/
+Abhz/Desktop/Project PPT/seminar ppt/images/google.png>]
+File: images/firebase.png Graphic file (type png)
+
+<use images/firebase.png>
+Package pdftex.def Info: images/firebase.png used on input line 411.
+(pdftex.def)             Requested size: 20.07617pt x 20.07617pt.
+File: images/google.png Graphic file (type png)
+ <use images/google.png>
+Package pdftex.def Info: images/google.png used on input line 411.
+(pdftex.def)             Requested size: 24.09048pt x 24.09048pt.
 File: logo.png Graphic file (type png)
  <use logo.png>
 Package pdftex.def Info: logo.png used on input line 411.
@@ -2069,67 +2115,151 @@ Package pdftex.def Info: logo.png used on input line 411.
  [38
 
 ]
+Overfull \hbox (55.12276pt too wide) in paragraph at lines 444--444
+[][] 
+ []
+
+
+Overfull \hbox (54.54756pt too wide) in paragraph at lines 444--444
+[][] 
+ []
+
+
+Overfull \hbox (27.00116pt too wide) detected at line 444
+[][][] [][][][][][][] [][] [][][][][][][] 
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png used on input line 444.
+(pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
+ [39
+
+]
+Overfull \hbox (55.12276pt too wide) in paragraph at lines 444--444
+[][] 
+ []
+
+
+Overfull \hbox (54.54756pt too wide) in paragraph at lines 444--444
+[][] 
+ []
+
+
+Overfull \hbox (27.00116pt too wide) detected at line 444
+[][][] [][][][][][][] [][] [][][][][][][] 
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png used on input line 444.
+(pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
+ [40
+
+]
+Overfull \hbox (55.12276pt too wide) in paragraph at lines 444--444
+[][] 
+ []
+
+
+Overfull \hbox (54.54756pt too wide) in paragraph at lines 444--444
+[][] 
+ []
+
+
+Overfull \hbox (27.00116pt too wide) detected at line 444
+[][][] [][][][][][][] [][] [][][][][][][] 
+ []
+
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png used on input line 444.
+(pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
+ [41
+
+]
+File: logo.png Graphic file (type png)
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 454.
+(pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
+ [42
+
+]
+File: logo.png Graphic file (type png)
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 468.
+(pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
+ [43
+
+]
 Missing character: There is no Ô in font cmssi10!
 Missing character: There is no ¨ in font cmssi10!
 Missing character: There is no Å in font cmssi10!
 File: logo.png Graphic file (type png)
-
-<use logo.png>
-Package pdftex.def Info: logo.png used on input line 423.
+ <use logo.png>
+Package pdftex.def Info: logo.png used on input line 480.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
- [39
+
+[44
 
  <C:/Program Files (x86)/MiKTeX 2.9/tex/latex/beamer/base/art/beamericonarticle
-.pdf>] <thank.jpg, id=1252, 60.4659pt x 84.7968pt>
-File: thank.jpg Graphic file (type jpg)
+.pdf>] <images/thanks.png, id=1394, 53.55818pt x 21.85399pt>
+File: images/thanks.png Graphic file (type png)
 
-<use thank.jpg>
-Package pdftex.def Info: thank.jpg used on input line 431.
-(pdftex.def)             Requested size: 90.6986pt x 127.19485pt.
+<use images/thanks.png>
+Package pdftex.def Info: images/thanks.png used on input line 490.
+(pdftex.def)             Requested size: 160.67413pt x 65.56174pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/sl' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 490.
+
 File: logo.png Graphic file (type png)
- <use logo.png>
-Package pdftex.def Info: logo.png used on input line 431.
+<use logo.png>
+Package pdftex.def Info: logo.png used on input line 490.
 (pdftex.def)             Requested size: 173.44374pt x 218.51813pt.
- [40
+ [45
 
- <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/thank.jpg>]
+ <C:/Users/Abhz/Desktop/Project PPT/seminar ppt/images/thanks.png>]
 \tf@nav=\write8
 \tf@toc=\write9
 \tf@snm=\write10
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 433.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 433.
-
-("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 433.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 433.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 492.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 492.
+ ("C:\Users\Abhz\Desktop\Project PPT\seminar ppt\presentation_1.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 492.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 492.
 Package rerunfilecheck Info: File `presentation_1.out' has not changed.
-(rerunfilecheck)             Checksum: D60264A23B8996E79A6D917CB6B84A4A;866.
+(rerunfilecheck)             Checksum: 34DC5A7DE7DA1A96325EE1FC707F5BC5;861.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 433.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 492.
  ) 
 Here is how much of TeX's memory you used:
- 29838 strings out of 493921
- 601007 string characters out of 3144880
- 762233 words of memory out of 3000000
- 32437 multiletter control sequences out of 15000+200000
- 15342 words of font info for 55 fonts, out of 3000000 for 9000
+ 29877 strings out of 493921
+ 601728 string characters out of 3144880
+ 808475 words of memory out of 3000000
+ 32463 multiletter control sequences out of 15000+200000
+ 15606 words of font info for 55 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,17n,75p,10390b,1128s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,17n,75p,10390b,1375s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi17.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on presentation_1.pdf (40 pages, 3861972 bytes).
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi17.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
+Output written on presentation_1.pdf (45 pages, 3710944 bytes).
 PDF statistics:
- 1330 PDF objects out of 1440 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 446 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1476 PDF objects out of 1728 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
+ 457 words of extra memory for PDF output out of 10000 (max. 10000000)
 

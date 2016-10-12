@@ -197,19 +197,19 @@ distance center/other bubbles = 2cm,
 \section{Literature Survey}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Google \small{v/s} \Large{Apache Solr} \small{v/s} \Large{ElasticSearch}}
+\frametitle{Amazon Alexa \small{v/s} \Large{Ivee Sleek} \small{v/s} \Large{Athom Homey}}
 \begin{table}
 \begin{tabular}{l l l}
 \toprule
-\textbf{Google} & \textbf{Apache Solr} & \textbf{Xapian}\\
+\textbf{Amazon Alexa} & \textbf{Ivee Sleek} & \textbf{Athom Homey}\\
 \midrule
-\tiny{Web Search Engine} & \tiny{Full Text Search Engine} & \tiny{Full Text Search Engine} \\
-\tiny{Uses Page Rank for prioritizing} & \tiny{Supports HTTP,XML,JSON} & \tiny{Binding with python,Ruby,Java} \\
-\tiny{Stores Location information}& \tiny{Spatial Search Available}&\tiny{No Spatial related Search}\\
-\tiny{Not Open Source}&\tiny{Open Source}&\tiny{Open Source}\\
-\tiny{Seperates Bold and Larger text from normal}& \tiny{Multi-lingual and synonym Search}&\tiny{Accurate probabilistic Ranking}\\
-\tiny{Overuses algorithm, hence fails in medical searches}&\tiny{Slow Startups and Commits}&\tiny{Slow Search due to log search}\\
-\tiny{Most used Search engine in WWW}&\tiny{Used by Twitter, LinkedIn, etc.}&\tiny{Debian, Gmane, Die Ziet}\\
+\tiny{Not Open Source} & \tiny{Not Open Source} & \tiny{Not Open Source} \\
+\tiny{No efficient android connectivity} & \tiny{No android connectivity} & \tiny{Android connectivity} \\
+\tiny{No Connectivity with smart devices}& \tiny{No Connectivity with smart devices}&\tiny{No Connectivity with smart devices}\\
+\tiny{No Image Recognition}&\tiny{No Image Recognition}&\tiny{No Image Recognition}\\
+\tiny{New features are not integrated}& \tiny{New features are not integrated}&\tiny{New features are not integrated}\\
+\tiny{Social Networking can't be integrated}&\tiny{Social Networking can't be integrated}&\tiny{Social Networking can't be integrated}\\
+\tiny{Map services are not integrated}&\tiny{Map services are not integrated}&\tiny{Map services are not integrated}\\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -238,7 +238,7 @@ distance center/other bubbles = 2cm,
 \begin{itemize}
 \item An open source Voice controlled personal assistant device.
 \item Written in Python.
-\item Built on top of Pocketsphinx STT and espeak TTS.
+\item Built on top of Pocketsphinx STT and Ivona TTS.
 \item A standalone intelligent device which can perform basic tasks like Web search, Book Tickets, Integrate mails and many more.
 \item Can connect the IOT devices in the vicinity and control them with built-in  voice commands.
 \item Connects with a Android app to personalize and control the functionality of the device.
@@ -295,98 +295,151 @@ distance center/other bubbles = 2cm,
 %----------------------------------------------------------------------------------------
 \begin{frame}
 \frametitle{Android App Flow Diagram}
-\centering
-\includegraphics[scale=0.32]{q3.png}
+\includegraphics[scale=0.4]{images/android.png}
 \end{frame}
 %----------------------------------------------------------------------------------------
-\section{Algorithms}
+\section{Key Components}
 %----------------------------------------------------------------------------------------
 \begin{frame}
-\frametitle{Algorithm}
-The most prominently used algorithms in ElasticSearch are as follows:
-\begin{alertblock}{Algorithms}
+\frametitle{Key Components}
+The most prominently used software and hardware in Jasper are as follows:
+\begin{alertblock}{Key Components}
 \begin{itemize}
-\item Relevance Scoring
-\item Inverted Index
-\item Zen Discovery
+\item PocketSphinx STT
+\item Ivona TTS
+\item Firebase Cloud Services
+\item Raspberry Pi 3 Model B
+\item Arduino Uno
+\item Google Translate
+\item Scikit Learn
 \end{itemize}
 \end{alertblock}
 \end{frame}
 %----------------------------------------------------------------------------------------
-\subsection{Relevance Scoring}
+\subsection{STT-TTS}
 \begin{frame}[fragile]
-\frametitle{Relevance Scoring}
-ElasticSearch uses following theories for practical scoring to calculate relevance: 
+\frametitle{Key Components}
+Following Natural language processing engines will be used in the project:
 \begin{columns}[c]
-\column{.45\textwidth} % Left column and width
-\begin{exampleblock}{\small{Boolean Model}}
-The boolean model simply applies the AND,OR and NOT conditions expressed in the query to find all the documents that match.\\
-\begin{verbnobox}[\tiny]
-full AND text AND(elasticsearch OR Lucene)
-\end{verbnobox}
+\onslide<1->\column{.45\textwidth} % Left column and width
+\begin{exampleblock}{\small{Pocketsphinx STT}}
+\begin{itemize}
+\item PocketSphinx is a lightweight speaker independent speech recognition engine, specifically tuned for handheld and mobile devices.
+\item It is one of the Carnegie Mellon University's open source large vocabulary.
+\end{itemize}
 \end{exampleblock}
 
-\column{.45\textwidth} % Right column and width
-\begin{exampleblock}{\small{Term Frequency/ Inverse Document Frequency}}
-\scriptsize{
+\onslide<2->\column{.45\textwidth} % Right column and width
+\begin{exampleblock}{\small{Ivona TTS}}
 \begin{itemize}
-\item \textbf{TF}: How often the term appears in the document? More often, Higher the weight.
-\item \textbf{IDF}:{\begin{itemize}
-\item \scriptsize{How often the term appear in all the documents in the collection? More often, lower the weight.}
-\item \scriptsize{How long is field? Shorter the field, Higher the weight.} 
-\end{itemize}}
-\end{itemize}}
+\item Pyvona is a python wrapper for Amazon’s IVONA. Using Pyvona, great cross-platform text-to-speech is simpler than ever.
+\item It is a Open Source TTS built by Amazon and also used in the Amazon Echo.
+\end{itemize}
 
 \end{exampleblock}
 \end{columns}
 \end{frame}
 %----------------------------------------------------------------------------------------
-\subsection{Inverted Index}
+\subsection{Pi-Arduino}
 \begin{frame}[fragile]
 \frametitle{Inverted Index}
-ElasticSearch uses Inverted Index for fast full text-searchs.Let us consider two documents containing respective unique fields:
-\begin{enumerate}
-\item The quick brown fox jumped over the lazy dog.
-\item Quick brown foxes leap over lazy dogs in summer. 
-\end{enumerate}
+Primary hardware which will be used for jasper will be as follows:
+
 \begin{columns}[c]
-\column{.45\textwidth} % Left column and width
-\begin{exampleblock}{\small{Inverted Index}}
+\onslide<1->\column{.45\textwidth} % Left column and width
+\begin{exampleblock}{\small{Raspberry Pi 3}}
 \begin{center}
-\includegraphics[scale=0.5]{t1.png}
+\includegraphics[scale=0.03]{images/pi3.jpg}\\
+\begin{itemize}
+\item A 1.2GHz 64-bit quad-core ARMv8 CPU
+\item 802.11n Wireless LAN
+\item Bluetooth 4.1
+\item 1GB RAM
+\item 40 GPIO Pins
+\end{itemize}
 \end{center}
 \end{exampleblock}
 
-\column{.45\textwidth} % Right column and width
-\begin{exampleblock}{\small{Weight Calculation for the summer}}
+\onslide<2->\column{.45\textwidth} % Right column and width
+\begin{exampleblock}{\small{Arduino Uno}}
 \begin{center}
-\includegraphics[scale=0.5]{t2.png}
+\includegraphics[scale=0.08]{images/arduino.jpg}
+\begin{itemize}
+\item ATmega328 microcontroller
+\item 6 Analog Inputs
+\item 32K Flash Memory
+\item 14 Digital I/O Pins (6 PWM outputs) 
+\end{itemize}
 \end{center}
 \end{exampleblock}
 \end{columns}
 \end{frame}
 %----------------------------------------------------------------------------------------
-\subsection{Zen Discovery}
+\subsection{Firebase-Translate}
 \begin{frame}
-\frametitle{Zen Discovery}
+\begin{columns}[c]
+\onslide<1->\column{.45\textwidth} % Left column and width
+\begin{exampleblock}{\small{Firebase Cloud Services}}
 \begin{center}
-\includegraphics[scale=0.34]{zen.jpg}
+\includegraphics[scale=0.1]{images/firebase.png}\\
 \end{center}
+\small{
+Firebase is a cloud services for software developers building mobile or web applications.It provides the following features:
+\begin{itemize}
+\item Analytics
+\item Cloud Messaging
+\item Authentication
+\item Realtime Database
+\item Storage
+\item Notifications
+\end{itemize}}
+\end{exampleblock}
+
+\onslide<2->\column{.45\textwidth} % Right column and width
+\begin{exampleblock}{\small{Google Translate}}
+\begin{center}
+\includegraphics[scale=0.08]{images/google.png}
+\end{center}
+\small{
+\begin{itemize}
+\item Google Translate is a free multilingual statistical machine translation service provided by Google to translate text, speech, images from one language into another.
+\item Google Translate algorithms are based on statistical analysis rather than traditional rule-based analysis.
+\end{itemize}}
+\end{exampleblock}
+\end{columns}
 \end{frame}
 %----------------------------------------------------------------------------------------
 \section{Advantages}
 %----------------------------------------------------------------------------------------
 \begin{frame}
-\frametitle{Advantages}
-\begin{exampleblock}{Advantages}
-\begin{itemize}
-\item \textbf{Built on top of Lucene}: It stores real world complex entities as JSON Documents and indexes them by default.
-\item \textbf{Full-text Search}: It supports full text search along with spatial search and tokkening and customizing the search.
-\item \textbf{Schema Free}: It accepts the JSON Documents and tries to detect the data structure and further adds the fields if not present. The fields can also be dropped.
-\item \textbf{RESTful API}: Searhc is API Driven.
-\item \textbf{Open Source}: All the documentation related to Elastic Search are Open for public.
-\end{itemize}
-\end{exampleblock}
+ \onslide<1->\frametitle{Advantages}
+
+\resizebox{.8\linewidth}{!}{%
+\smartdiagramset{
+description title width = 2cm,
+description title font = \footnotesize,
+description title text width = 2cm , 
+description width = 4cm,
+description font = \footnotesize ,
+descriptive items y sep = 3cm
+}
+\begin{columns}[T] % align columns
+\begin{column}{.48\textwidth}
+ \onslide<2->\smartdiagram[descriptive diagram]{
+      {\textbf{Open to Community},{Open source and skills can be extended.}},
+      {\textbf{Ease-of-Use},{Fully controlled by vocal commands. Can be used by any age group.}},
+      {\textbf{Integration of IOT},{IOT Devices in the vicinity can be interfaced using built-in voice commands.}},
+      }
+\end{column}%
+\hspace{2.2cm}%
+\begin{column}{.48\textwidth}
+ \onslide<3->\smartdiagram[descriptive diagram]{
+      {\textbf{Multi-tasking},{Have the capability to perform various types of task, not performed by other voice controlled devices.}},
+      {\textbf{Personalized},{Features like mail integration, To-do list and many more}},
+      {\textbf{Out-of-box Features},{Features like Image recognition, Android app and One Device multiple Social Networks.}},
+      }
+\end{column}%
+\end{columns}}
 \end{frame}
 %----------------------------------------------------------------------------------------
 \section{Conclusion}
@@ -394,7 +447,9 @@ ElasticSearch uses Inverted Index for fast full text-searchs.Let us consider two
 \begin{frame}
 \frametitle{Conclusion}
 \openup 0.7em
-Elastic Search allows to store, search and analyze huge amount of data quickly and in near real time.\\ It is a great open source tool built on top of LUCENE but uses JSON+RESTful API.\\ Also it is easy to setup and get started with.\\ And it is dynamically load balances just like Google does. 
+
+Jasper is a \textbf{Step Forward} to the era of Voice controlled Personal Assistant Device.\\ It is a great \textbf{Open Source Platform} built on top of Open source NLP tools and still performs according to the like of other alternative present.\\ Also it is \textbf{easy to setup} and \textbf{get started} with.\\ And it also supports on go \textbf{integration of IOT devices} which other Personal assistant devices does not, with an \textbf{Android app} built on top of it. 
+
 \end{frame}
 %----------------------------------------------------------------------------------------
 \section{Future Scope}
@@ -403,9 +458,10 @@ Elastic Search allows to store, search and analyze huge amount of data quickly a
 \frametitle{Future Scope}
 \begin{alertblock}{Future Scope}
 \begin{itemize}
-\item To create zones within the cluster and and newly created shards are allotted to highly- ended zones and older shards are shifted to lower-ended zones. Hence lower ended zone have to provide much greater relevance during ranking which improves the search output.
-\item Shard selection is highly advantages till it is used in web searching. As it comes down to enterprises search where shards can be structured, shard selection proves costly at times.
-\item Automatically scaling can also be integrated in future. 
+\item The device can make a conversation with the user instead of just servicing the commands.
+\item Language translation on go for multiple languages.
+\item More than one jasper can connect to form a web of Personal Assistant Devices.
+\item Making Phone calls and voice mails integration using the AI Device. 
 \end{itemize}
 \end{alertblock}
 \end{frame}
@@ -424,9 +480,11 @@ Elastic Search allows to store, search and analyze huge amount of data quickly a
 %----------------------------------------------------------------------------------------
 \begin{frame}
 \begin{center}
-\textbf{\huge{That's It\\\vspace{0.2cm} Thank You}}\\
+\textbf{\huge{Thank You!!!}}\\
 \vspace{0.5cm}
-\includegraphics[scale=1.5]{thank.jpg}
+\includegraphics[scale=3]{images/thanks.png}
+\\\vspace{0.5cm}
+\textbf{\textsl{\huge{Questions?}}}\\
 \end{center}
 \end{frame}
 %----------------------------------------------------------------------------------------

@@ -1,21 +1,31 @@
 \frametitle{Inverted Index}
-ElasticSearch uses Inverted Index for fast full text-searchs.Let us consider two documents containing respective unique fields:
-\begin{enumerate}
-\item The quick brown fox jumped over the lazy dog.
-\item Quick brown foxes leap over lazy dogs in summer.
-\end{enumerate}
+Primary hardware which will be used for jasper will be as follows:
+
 \begin{columns}[c]
-\column{.45\textwidth} % Left column and width
-\begin{exampleblock}{\small{Inverted Index}}
+\onslide<1->\column{.45\textwidth} % Left column and width
+\begin{exampleblock}{\small{Raspberry Pi 3}}
 \begin{center}
-\includegraphics[scale=0.5]{t1.png}
+\includegraphics[scale=0.03]{images/pi3.jpg}\\
+\begin{itemize}
+\item A 1.2GHz 64-bit quad-core ARMv8 CPU
+\item 802.11n Wireless LAN
+\item Bluetooth 4.1
+\item 1GB RAM
+\item 40 GPIO Pins
+\end{itemize}
 \end{center}
 \end{exampleblock}
 
-\column{.45\textwidth} % Right column and width
-\begin{exampleblock}{\small{Weight Calculation for the summer}}
+\onslide<2->\column{.45\textwidth} % Right column and width
+\begin{exampleblock}{\small{Arduino Uno}}
 \begin{center}
-\includegraphics[scale=0.5]{t2.png}
+\includegraphics[scale=0.08]{images/arduino.jpg}
+\begin{itemize}
+\item ATmega328 microcontroller
+\item 6 Analog Inputs
+\item 32K Flash Memory
+\item 14 Digital I/O Pins (6 PWM outputs)
+\end{itemize}
 \end{center}
 \end{exampleblock}
 \end{columns}
